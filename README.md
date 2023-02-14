@@ -1,5 +1,5 @@
 # ALX High Level programming
-![alt_text](https://images.app.goo.gl/abBAyiWmKi6gyaEk8)
+![alt_text](https://images.app.goo.gl/abBAyiWmKi6gyaEk8.jpg)
 
 Starting my journey in high level programming whicj i know is going to be fun and much more demanding and different from my previous encounter, but with determination and persistence it's definitly going to be easy just like the low-level-journey.
 
