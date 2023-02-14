@@ -1,6 +1,6 @@
 # ALX High Level programming
 
-Starting my journey in high level programming whicj i know is going to be fun and much more demanding and different from my previous encounter, but with determination and persistence it's definitly going to be easy just like the low-level-journey.
+Starting my journey in high level programming which i know is going to be fun and much more demanding and different from my previous encounter, but with determination and persistence it's definitly going to be easy just like the low-level-journey.
 
 ## Welcome to the Python world
 
