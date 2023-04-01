@@ -1,19 +1,16 @@
 #!/usr/bin/python3
+# -*- coding: utf-8 -*-
 """
-Module using request that fetches https://intranet.hbtn.io/status
+Created on Sat 1 April,2023
+@author: Moses
 """
-import requests
+from requests import get
 
-
-def main():
-    """
-    Function that fetches https://intranet.hbtn.io/status
-    """
-    url = 'https://intranet.hbtn.io/status'
-    r = requests.get(url)
-    print('Body response:')
-    print('\t- type: {}'.format(type(r.text)))
-    print('\t- content: {}'.format(r.text))
 
 if __name__ == "__main__":
-    main()
+    url = 'https://intranet.hbtn.io/status'
+    response = get(url)
+    bytes_content = response.text
+    string = 'Body response:\n\t- type: {}\n\t- content: {}'.format(
+             type(bytes_content), bytes_content)
+    print(string)
